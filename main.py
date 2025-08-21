@@ -1,7 +1,6 @@
 import re
 import yaml
 import streamlit as st
-
 from agno.agent import Agent
 from agno.models.nebius import Nebius
 from agno.tools.github import GithubTools
@@ -35,7 +34,7 @@ instructions_single = data.get("instructions_for_single_candidate", "")
 st.markdown("""
     <div style="text-align:center;">
         <h1 style="font-size: 2.8rem;">🧠 Candilyzer</h1>
-        <p style="font-size:1.1rem;">Elite GitHub + LinkedIn Candidate Analyzer for Tech Hiring</p>
+        <p style="font-size:1.1rem;">Candidate Analyzer</p>
     </div>
 """, unsafe_allow_html=True)
 
