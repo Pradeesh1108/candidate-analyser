@@ -1,5 +1,3 @@
-# 🧠 Candilyzer
-
 **AI-Powered GitHub & LinkedIn Candidate Analyzer**
 
 A Streamlit app that uses AI agents to analyze technical candidates based on their GitHub repositories and LinkedIn profiles. Provides detailed evaluations, skill assessments, and scoring for tech hiring decisions.
